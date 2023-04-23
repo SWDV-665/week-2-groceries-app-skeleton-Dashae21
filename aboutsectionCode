@@ -1,0 +1,19 @@
+//file src , tabs , app, tab1 
+
+<ion-header>
+  <ion-toolbar>
+    <ion-title> About Page</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-header collapse="condense">
+    <ion-title> Akilah Murphy -- Student ID: 1011994 </ion-title>
+    <ion-toolbar>
+      <ion-title size="large">Tab 1</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <app-explore-container name="About page"></app-explore-container>
+</ion-content>
+
